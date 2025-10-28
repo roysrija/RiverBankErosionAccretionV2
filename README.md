@@ -39,4 +39,4 @@ Summary_Report.csv – Tabular statistics of area changes.
 
 Credits:
 
-Developed by Dr. Srija Roy, Research Associate, Narmada River Basin Management Studies, under the National River Conservation Plan, Ministry of Jal Shakti, Government of India.
+Developed by Dr. Srija Roy
