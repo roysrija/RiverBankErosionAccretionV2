@@ -1,0 +1,48 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=RiverBankErosionAccretion_V2
+qgisMinimumVersion=3.0
+description=RiverBank Erosion and Accretion Analyzer v2 is an advanced QGIS plugin designed to quantify riverbank dynamics by analyzing spatial data over multiple time periods. It provides automated workflows for calculating, visualizing, and reporting erosion and accretion zones along a river’s course.
+version=0.2
+author=Srija Roy
+email=roysrija7@gmail.com
+
+about=RiverBank Erosion and Accretion Analyzer v2 is an advanced QGIS plugin designed to quantify riverbank dynamics by analyzing spatial data over multiple time periods. It provides automated workflows for calculating, visualizing, and reporting erosion and accretion zones along a river’s course. The plugin offers enhanced accuracy and flexibility through a refined computational framework, adaptive projection handling, and user-defined parameters making it a comprehensive tool for river morphology assessment, environmental monitoring, and sustainable river-management planning.
+
+tracker=https://github.com/roysrija/RiverBank-Erosion-and-Accretion-Analyzer-V2/issues
+repository=https://github.com/roysrija/RiverBank-Erosion-and-Accretion-Analyzer-V2
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=river, erosion, accretion, geomorphology, remote sensing, qgis, plugin, analysis
+
+
+homepage=http://homepage
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+
